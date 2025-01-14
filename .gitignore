@@ -1,0 +1,5 @@
+proxy.txt
+tokens.txt
+node_modules
+package-lock.json
+.codegpt
