@@ -1,6 +1,6 @@
 # MyGate Network Bot
 
-![banner](image.png)
+Tool được phát triển bởi nhóm tele Airdrop Hunter Siêu Tốc (https://t.me/airdrophuntersieutoc)
 
 ## Features
 
